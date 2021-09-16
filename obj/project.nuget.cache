@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjgn5xJ6ViPFPk+Gh/wMBDN8R034SRXYrZQxK2YIBRDRqpl+yeck3XV7WaTm6YQ62QqrAUppfxovPaDfWgj8Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hafiz\\Desktop\\C# Image Compresser\\ImageCompress\\ImageCompressBase64\\ImageCompressBase64.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hafiz\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\hafiz\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\hafiz\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

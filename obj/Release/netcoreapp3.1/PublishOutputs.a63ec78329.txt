@@ -1,0 +1,11 @@
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\ImageCompressBase64.exe
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\CompressedImage\img.txt
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\ImageCompressBase64.dll
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\ImageCompressBase64.deps.json
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\ImageCompressBase64.runtimeconfig.json
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\ImageCompressBase64.pdb
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\System.Drawing.Common.dll
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hafiz\Desktop\C# Image Compresser\ImageCompress\ImageCompressBase64\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
